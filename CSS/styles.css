@@ -1,0 +1,19 @@
+/* Selector {
+    Property:value;
+} */
+
+h2,p{
+    color:blue;
+}
+
+nav ul li{
+    color: pink;
+}
+
+.header2{
+    background-color: springgreen;
+}
+
+#home{
+    background-color: teal;
+}
