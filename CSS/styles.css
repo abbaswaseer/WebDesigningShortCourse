@@ -2,18 +2,23 @@
     Property:value;
 } */
 
-h2,p{
-    color:blue;
+body{
+    background-image:url(bg2.jpg);
+    background-size: cover;
 }
 
-nav ul li{
-    color: pink;
+h2{
+    color:#91464F;
+    text-align: center;
+    border: 10px dashed rgba(255, 255, 0,0.5);
+    cursor: pointer;
 }
 
-.header2{
-    background-color: springgreen;
+p{
+    color: green;
 }
 
-#home{
-    background-color: teal;
+ul li{
+    display: inline-block;
 }
+
